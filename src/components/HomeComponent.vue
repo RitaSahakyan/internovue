@@ -31,8 +31,8 @@ export default {
     }
     .home_content{
         position: absolute;
-        top: 28%;
-        left:32%;
+        top: 44%;
+        left:21%;
     }
     .home_heading{
         color: #292F36;
